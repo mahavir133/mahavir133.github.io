@@ -1,0 +1,78 @@
+Privacy Policy
+
+OmniCalc
+Effective Date: June 21, 2026
+Last Updated: June 21, 2026
+
+
+1. Introduction
+
+Welcome to OmniCalc. We respect your privacy and are committed to being transparent about data practices associated with our application. This Privacy Policy explains what information may be collected when you use OmniCalc and how it is handled. By using OmniCalc, you agree to the terms outlined in this policy.
+
+2. Information We Collect
+
+We do not collect, store, or process any personal information directly. OmniCalc does not require account creation, login, or any personal data input to function.
+
+However, the app integrates third-party services that may collect certain information automatically, as described below.
+
+3. Third-Party Services
+
+3.1 Google AdMob (Advertising)
+
+OmniCalc uses Google AdMob to display advertisements. AdMob may automatically collect certain information, including:
+
+
+Device identifiers (such as Advertising ID)
+IP address
+General location data (based on IP address)
+Device information (model, operating system, screen size)
+App usage and interaction data
+Ad interaction data (impressions, clicks)
+
+
+Google may use this information to serve personalized or non-personalized ads based on your preferences and settings. For more details on how Google handles your data, please refer to Google's Privacy Policy and How Google Uses Information from Sites or Apps That Use Its Services.
+
+You can manage your ad personalization preferences through your device settings or by visiting Google's Ad Settings.
+
+3.2 In-App Purchases
+
+OmniCalc offers in-app purchases processed entirely through the platform's official app store (Google Play Store or Apple App Store). All payment transactions are handled by the respective app store. We do not collect, store, or have access to any payment or billing information. Please refer to the privacy policy of the relevant app store for details on how your payment data is handled:
+
+
+Google Play Privacy Policy
+Apple Privacy Policy
+
+
+4. Cookies and Tracking Technologies
+
+OmniCalc itself does not use cookies or tracking technologies. However, the third-party advertising services integrated within the app (Google AdMob) may use cookies, device identifiers, and similar technologies to deliver and measure advertisements. Please refer to Section 3.1 for more details.
+
+5. Data Sharing
+
+We do not share any personal data because we do not collect any. Data collected by third-party services (Google AdMob, app store platforms) is governed by their respective privacy policies as linked above.
+
+6. Data Retention
+
+Since we do not collect any personal data, there is no user data retained on our end. Any data collected by third-party services is retained according to their own data retention policies.
+
+7. Children's Privacy
+
+OmniCalc is not directed at children under the age of 13 (or the applicable age of consent in your jurisdiction). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child's data has been collected by a third-party service within the app, please contact that service provider directly using the links provided in Section 3.
+
+8. Your Rights and Choices
+
+Although we do not collect personal data, you have the following choices regarding third-party data collection within the app:
+
+
+Ad Personalization: You can opt out of personalized advertising by adjusting your device's advertising settings or visiting Google's Ad Settings.
+Advertising ID: You can reset or disable your device's Advertising ID through your device settings.
+In-App Purchases: You can manage or restrict in-app purchases through your device or app store settings.
+
+
+9. Security
+
+While we do not collect or store any user data, we are committed to ensuring that the app operates securely. We regularly update OmniCalc to address potential vulnerabilities and maintain compatibility with the latest platform security standards.
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in third-party services, legal requirements, or app features. We will notify you of material changes by posting the updated policy and revising the "Last Updated" date above. Your continued use of OmniCalc after any changes constitutes acceptance of the revised policy.
